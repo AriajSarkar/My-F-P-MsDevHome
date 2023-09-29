@@ -1,3 +1,3 @@
 # My-F-P-MsDevHome
 
-Preview_Link : https://replit.com/@DevLordK/Preview?v=1
+Preview_Link : https://preview--devlordk.repl.co/
